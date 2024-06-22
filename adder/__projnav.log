@@ -1,0 +1,8 @@
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file c:/xilinx/bin/adder/full_adder.vhd in Library work.
+Entity <full_adder> (Architecture <Behavioral>) compiled.
+tdtfi(vhdl) completed successfully.
+
+

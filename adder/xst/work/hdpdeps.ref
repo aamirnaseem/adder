@@ -1,0 +1,6 @@
+V1 3
+FL c:/xilinx/bin/adder/full_adder.vhd 2024/06/03.14:12:17
+EN work/FULL_ADDER      FL c:/xilinx/bin/adder/full_adder.vhd \
+      PB ieee/STD_LOGIC_1164 PB ieee/STD_LOGIC_ARITH PB ieee/STD_LOGIC_UNSIGNED
+AR work/FULL_ADDER/BEHAVIORAL FL c:/xilinx/bin/adder/full_adder.vhd \
+      EN work/FULL_ADDER
